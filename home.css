@@ -18,4 +18,11 @@ p {
   font-family: 'Berkshire Swash', cursive;
   text-shadow: 3px 3px 3px red;
 }
+a {
+ text-decoration: none;
+  font-family: 'Catamaran', sans-serif;
+  font-size: 30px;
+  margin-left:23px;
+  
+}
 
