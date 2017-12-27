@@ -35,8 +35,17 @@ box-shadow:0px 0px 5px 5px black ;
 }
 
 .navbar ul{
+	margin:0;
+	padding:0;
 
 }
+
+.navbar li {
+	margin:0;
+	padding:0;
+	flot:left;
+}
+
 .navbar a:link    {color:white; text-decoration:none;}
 .navbar a:visited {color:blue; text-decoration:none;}
 .navbar a:hover   {color:white; text-decoration:none;}
