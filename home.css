@@ -1,14 +1,21 @@
 body {
-  background-color: red;
+  background-color:#A5D6A7;
 }
 
 h1 {
   text-align: center;
-  font-size: 50px;
+  font-size: 80px;
+  color: #F44336;
+  font-family: 'Catamaran', sans-serif;
+    text-shadow: 3px 3px 3px white;
+  
 }
 
 p {
   font-size: 50px;
   text-align: center;
+  color: #8E24AA;
+  font-family: 'Berkshire Swash', cursive;
+  text-shadow: 3px 3px 3px red;
 }
 
