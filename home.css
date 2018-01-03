@@ -1,0 +1,49 @@
+body {
+  background-color:#A5D6A7;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  color: #1f9158;
+  font-family: 'Catamaran', sans-serif;
+    text-shadow: 3px 3px 3px white;
+   
+} 
+
+h3 {
+  font-size: 30px;
+  text-align: center;
+  color: #37a66b;
+  font-family: 'Berkshire Swash', cursive;
+  text-shadow: 1px 1px 1px white;
+  margin-top: -24px;
+}
+a {
+ text-decoration: none;
+  font-family: 'Catamaran', sans-serif;
+  font-size: 30px;
+  margin-left:auto;
+  color: white;
+  align-self: center;
+
+}
+img {
+  border-radius: 50%;
+  margin: auto;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+  margin-top: 40px;
+}
+button{
+  border-radius: 12px;
+  background: #1f9158;
+text-align: center;
+width: 180px;
+ box-shadow:  0 9px  #d6e2ff;
+}
+button .hover{
+  background-color: red;
+}
+
